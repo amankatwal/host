@@ -1,0 +1,165 @@
+#title {
+  text-align: center;
+  line-height: 2;
+  background: url(https://d33wubrfki0l68.cloudfront.net/daac8858fd4a0ccea44f59dfd079c3c16c263f33/c157c/assets/svg/common-bg.svg);
+}
+
+.aman {
+  background-color: #f5f5f5cc;
+  padding: 10% 7%;
+}
+
+.pro1:hover {
+  color: #ffc107;
+  background-color: #f1dfa826;
+  padding: 7px 10px;
+  border-radius: 5px;
+}
+
+.aboutme {
+  text-align: center;
+  margin: 0% 20% 5% 20%;
+}
+
+hr {
+  width: 50px;
+  border-top-width: 7px;
+  margin: auto;
+  border-style: none;
+  background-color: #ffc107;
+  opacity: 1;
+  border-radius: 10px;
+}
+
+.btn {
+  border-radius: 5px;
+  box-shadow: 1px 5px 8px 0 #9b9a94;
+  font-weight: 500;
+  width: 160px;
+  letter-spacing: 1px;
+  margin:2.5px auto;
+}
+
+.study {
+  display: inline;
+  background-color: #DDDDDD;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin-right: 10px;
+  line-height: 3.5;
+  color: #686D76;
+  font-size: 0.98em;
+}
+
+.skills {
+  padding: 10% 6%;
+}
+
+.about {
+  padding: 50px 100px 50px 80px;
+  line-height: 1.5;
+}
+
+.contact {
+  margin: 8% 20% 0 20%;
+  padding: 3% 3%;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.form-control {
+  background-color: #F6F6F6;
+  padding: 10px 20px;
+}
+
+body {
+  font-family: 'Source Sans Pro' sans-serif;
+  font-weight: 400;
+}
+
+.navbar {
+  background-color: #ffff;
+}
+
+.bg-dark {
+  padding: 8% 8%;
+  line-height: 3;
+  text-align: left;
+  color: white;
+  display: flex;
+}
+
+i {
+  margin: 20px 7px 0 7px;
+  color: #ffff;
+}
+
+.btn:hover {
+  margin-top: 0;
+  margin-bottom: 2.5px;
+}
+
+#home {
+  background-color: #F6F6F6;
+  padding-top: 50px;
+}
+
+h1 {
+  font-size: 4em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+p {
+  color: #73777B;
+  font-size: 1.3em;
+}
+
+.navbar-brand {
+  color: #3C4048;
+  font-weight: 700;
+  letter-spacing: 1px;
+  font-size: 0.75em;
+  font-family: sans-serif;
+  padding: 7px 10px;
+  text-transform: uppercase;
+}
+
+h3 {
+  padding-bottom: 30px;
+  font-weight: 700;
+  font-size: 1.9em;
+}
+
+#fom {
+  background-color: #F6F6F6;
+  background: url(https://d33wubrfki0l68.cloudfront.net/daac8858fd4a0ccea44f59dfd079c3c16c263f33/c157c/assets/svg/common-bg.svg);
+}
+
+@media (max-width: 992px) {
+  .col-lg-6 {
+    text-align: center;
+    margin: auto;
+    padding: 1.5% 1.5%;
+  }
+
+  .contact {
+    margin-left: 7%;
+    margin-right: 7%;
+  }
+  .social{
+    text-align: center;
+  }
+}
+
+.front {
+  padding: 0 20%;
+}
+.copy{
+  text-align: center;
+}
+
+#projects{
+  padding:15%;
+}
